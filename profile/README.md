@@ -45,7 +45,3 @@ Karafka has [Wiki pages](https://karafka.io/docs) for almost everything and a pr
 If you have questions about using Karafka, feel free to join our [Slack](https://slack.karafka.io) channel.
 
 Karafka has [priority support](https://karafka.io/docs/Pro-Support) for technical and architectural questions that is part of the Karafka Pro subscription.
-
----
-
-Copyright © 2015 - 2023 Maciej Mensfeld. Made with love in Cracow, Poland. 
